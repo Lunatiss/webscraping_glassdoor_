@@ -1,8 +1,7 @@
-![Portada](img/portada.png)
-
-
 ## Overview
 This repository contains scripts and data related to web scraping and data cleaning for job listings on Glassdoor.
+
+![Portada](img/portada.png)
 
 ## Contents
 - `scraping_glassdoor_ok.ipynb`: A Jupyter Notebook for scraping job data from Glassdoor.
