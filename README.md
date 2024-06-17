@@ -1,6 +1,6 @@
 ## Overview
 This repository contains scripts and data related to web scraping and data cleaning for job listings on Glassdoor.
-This analysis will help students focus their job search after completing the bootcamp in data analyst.
+This analysis will help students focus their job search after completing the bootcamp in data analyst and is part of a project developed during my studies. 
 
 ![Portada](img/portada.png)
 
@@ -19,13 +19,13 @@ By integrating LinkedIn job postings data from the previous month with the lates
 ## Results: 
 ![1](img/1.png)
 
-### 2. Top 10 most published jobs title & Seniority
+### Top 10 most published jobs title & Seniority
 ![2](img/2.png)
 
-### 3. Top 5 citys with most jobs  posting & Job modality
+### Top 5 citys with most jobs  posting & Job modality
 ![3](img/3.png)
 
-### 4. Top skills
+### Top skills
 ![4](img/4.png)
 
 ## Tools Used
