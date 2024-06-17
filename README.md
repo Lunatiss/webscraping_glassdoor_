@@ -15,7 +15,7 @@ This analysis will help students focus their job search after completing the boo
 By integrating LinkedIn job postings data from the previous month with the latest updates from Glassdoor, we aim to identify the most sought-after jobs by companies, the top cities with the highest number of job openings, and the essential skills required. 
 
 ## Results: 
-![1](img/1.pdf)
+![1](img/1.png)
 
 2. Top 10 most published jobs title & Seniority
    
