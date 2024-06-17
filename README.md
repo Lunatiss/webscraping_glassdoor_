@@ -19,13 +19,13 @@ By integrating LinkedIn job postings data from the previous month with the lates
 ## Results: 
 ![1](img/1.png)
 
-2. Top 10 most published jobs title & Seniority
+### 2. Top 10 most published jobs title & Seniority
 ![2](img/2.png)
 
-3. Top 5 citys with most jobs  posting & Job modality
+### 3. Top 5 citys with most jobs  posting & Job modality
 ![3](img/3.png)
 
-4. Top skills
+### 4. Top skills
 ![4](img/4.png)
 
 ## Tools Used
